@@ -11,7 +11,7 @@ int main(){
 			j++;
 		}
 		printf("el promedio de este alumno es: %d\n",r/10);
-		r2+=a;
+		r2+=r;
 		i++;
 	}
 	printf("el promedio el curso es: %d", r2/300);
